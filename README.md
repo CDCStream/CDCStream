@@ -1,8 +1,7 @@
 # 👋 Hi, This is CDCStream
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cdcstream/cdcstream/main/logo.png" width="150" alt="CDCStream Logo"/>
-</p>
+![web-site-video](https://github.com/user-attachments/assets/66bbe821-2a20-4dc7-a43a-ee1136d43efa)
+
 
 ## 🚀 About CDCStream
 

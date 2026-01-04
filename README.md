@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, This is CDCStream
 
-<!--
-**CDCStream/CDCStream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cdcstream/cdcstream/main/logo.png" width="150" alt="CDCStream Logo"/>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About CDCStream
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Real-time database change monitoring tool**
+
+- 🔄 Track INSERT, UPDATE, DELETE operations in real-time
+- 📊 Support for PostgreSQL, MySQL, MongoDB, MSSQL
+- 🔔 Instant notifications via Slack, Email, Webhook & REST API
+- 🎯 Rule-based filtering with custom conditions
+
+## 📦 Quick Start
+
+pip install cdcstream
+cdcstream start## 🔗 Links
+
+[![Website](https://img.shields.io/badge/Website-cdcstream.io-green?style=for-the-badge)](https://cdcstream.io)
+[![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/cdcstream/cdcstream)
+[![GitHub Stars](https://img.shields.io/github/stars/cdcstream/cdcstream?style=for-the-badge)](https://github.com/cdcstream/cdcstream)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdcstream&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>

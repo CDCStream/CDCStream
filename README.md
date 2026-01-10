@@ -1,6 +1,7 @@
 # 👋 Hi, This is CDCStream
 
-![web-site-video (2)](https://github.com/user-attachments/assets/d4027cd7-4528-461f-a350-fb96adebcf95)
+![Web-sitesi](https://github.com/user-attachments/assets/51631758-04ad-42f2-ac34-9f0e55be9b3f)
+
 
 ## 🚀 About CDCStream
 
